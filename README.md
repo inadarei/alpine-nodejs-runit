@@ -1,3 +1,5 @@
+**DEPRECATED** project. Use https://github.com/inadarei/node-alpine instead
+
 # alpine-nodejs-runit
 
 [![Docker Hub Link][docker-img]][docker-url]
